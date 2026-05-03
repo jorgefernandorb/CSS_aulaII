@@ -1,0 +1,10 @@
+/* 1. Estado Normal */
+a:link { text-decoration: none; color: #3498db; }
+/* 2. Já Visitado */
+a:visited { color: #9b59b6; }
+/* 3. Mouse em cima */
+a:hover { text-decoration: underline; color: #2ecc71; }
+/* 4. No momento do clique */
+a:active { color: #e74c3c; }
+/* Dica: Removendo o sublinhado padrão de todos */
+a { font-weight: bold; }

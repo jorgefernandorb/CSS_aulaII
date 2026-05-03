@@ -1,0 +1,12 @@
+/* Seletor: a tag h1 */
+h1 {
+  color: #2c3e50;         /* Propriedade: cor | Valor: azul escuro */
+  font-size: 32px;        /* Propriedade: tamanho | Valor: 32 pixels */
+  text-align: center;     /* Propriedade: alinhamento | Valor: centralizado */
+}
+/* Seletor: a tag p */
+p {
+  color: rgba(10, 64, 203, 0.582);        /* Propriedade: cor | Valor: cinza escuro */
+  line-height: 1.6;       /* Propriedade: altura da linha | Valor: 1.6 */
+  margin-bottom: 20px;    /* Propriedade: margem | Valor: 20 pixels */
+}

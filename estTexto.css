@@ -1,0 +1,15 @@
+h1 {
+  color: #2c3e50;
+  text-align: center;
+  text-transform: uppercase; /* Grita o título */
+  text-decoration: underline; /* Sublinha para dar ênfase */
+}
+p {
+  color: #666;
+  text-align: justify;
+  line-height: 1.6; /* Melhora a leitura do bloco */
+}
+.promo {
+  text-decoration: line-through; /* Risco de preço antigo */
+  color: red;
+}

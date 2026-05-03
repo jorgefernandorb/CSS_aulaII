@@ -1,0 +1,13 @@
+/*Exemplo sem "Compilar":*/
+body {
+  background-color: white;
+  background-image: url("imagem.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+/*Exemplo "Compilado" (Shorthand):*/
+/* Ordem: color image repeat attachment position */
+body {
+  background: white url("imagem.png") no-repeat fixed center;
+}

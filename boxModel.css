@@ -1,0 +1,17 @@
+.caixa {
+    width: 300px;
+    background-color: #3498db;
+    color: white;
+    border: 5px solid #2c3e50;
+    /* Apenas para separar as duas caixas */
+    margin-bottom: 20px; 
+}
+#caixa-padding {
+    /* O conteúdo se afasta da borda, a caixa cresce */
+    padding: 50px; 
+}
+#caixa-margin {
+    /* A caixa se afasta de tudo ao redor, mas não muda de tamanho */
+    margin: 50px; 
+}
+
